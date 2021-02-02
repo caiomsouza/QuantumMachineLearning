@@ -50,5 +50,7 @@ https://cloudblogs.microsoft.com/quantum/2020/12/09/microsoft-practical-quantum-
 ### There’s no better time to join the quantum computing revolution 
 https://cloudblogs.microsoft.com/quantum/2020/10/13/join-quantum-computing-revolution-training-resources/
 
+### Azure Quantum optimization service samples
+https://github.com/microsoft/qio-samples
 
 
