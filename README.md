@@ -1,6 +1,8 @@
 # QuantumMachineLearning
 Quantum Machine Learning
 
+### Learning Resources on Quantum Computing
+https://qosf.org/learn_quantum/
 
 ### EDX Course - Quantum Machine Learning
 https://www.edx.org/course/quantum-machine-learning
