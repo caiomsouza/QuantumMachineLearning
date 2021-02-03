@@ -20,16 +20,16 @@ https://qosf.org/learn_quantum/
 https://www.edx.org/course/quantum-machine-learning
 
 ### Quantum Machine Learning MOOC
-https://github.com/qosf/qml-mooc
-https://gitlab.com/qosf/qml-mooc
+https://github.com/qosf/qml-mooc<BR>
+https://gitlab.com/qosf/qml-mooc<BR>
 
 ### Quantum Machine Learning MOOC, created by Peter Wittek from the University of Toronto in Spring 2019. 
 https://www.youtube.com/watch?v=QtWCmO_KIlg&list=PLmRxgFnCIhaMgvot-Xuym_hn69lmzIokg
 
 ### Peter Wittek
-https://quantum-journal.org/in-memoriam-peter-wittek/
-https://www.linkedin.com/in/peterwittek/
-https://www.cbc.ca/news/canada/toronto/peter-wittek-trisul-rescue-1.5305924
+https://quantum-journal.org/in-memoriam-peter-wittek/<BR>
+https://www.linkedin.com/in/peterwittek/<BR>
+https://www.cbc.ca/news/canada/toronto/peter-wittek-trisul-rescue-1.5305924<BR>
 
 ### Quantum machine learning for data scientists
 https://arxiv.org/pdf/1804.10068.pdf
@@ -44,8 +44,8 @@ https://github.com/qosf
 https://github.com/Microsoft/QuantumKatas/
 
 ### Integrating quantum kernels into scikit-learn
-This notebook provides a didactic template to use scikit-learn's support vector machine in combination with a quantum kernel.
-https://github.com/qosf/qml-mooc/blob/master/guest_lectures/quantumkernels_svm.ipynb
+This notebook provides a didactic template to use scikit-learn's support vector machine in combination with a quantum kernel.<BR>
+https://github.com/qosf/qml-mooc/blob/master/guest_lectures/quantumkernels_svm.ipynb<BR>
 
 ### Cambridge Quantum Computing (CQC) Publications
 https://cambridgequantum.com/publications/
@@ -66,9 +66,9 @@ https://github.com/microsoft/qio-samples
 https://www.protocol.com/manuals/quantum-computing/machine-learning-ai-quantum-computing-move-beyond-hype
 
 ### Solving Linear Systems of Equations using HHL
-https://qiskit.org/textbook/ch-applications/hhl_tutorial.html
-https://qiskit.org/
-https://github.com/Qiskit
+https://qiskit.org/textbook/ch-applications/hhl_tutorial.html <BR>
+https://qiskit.org/ <BR>
+https://github.com/Qiskitv<BR>
 
 ### Quantum linear systems algorithms: a primer
 https://arxiv.org/pdf/1802.08227.pdf
