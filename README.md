@@ -64,3 +64,11 @@ https://github.com/microsoft/qio-samples
 
 ### Can quantum machine learning move beyond its own hype?
 https://www.protocol.com/manuals/quantum-computing/machine-learning-ai-quantum-computing-move-beyond-hype
+
+### Solving Linear Systems of Equations using HHL
+https://qiskit.org/textbook/ch-applications/hhl_tutorial.html
+https://qiskit.org/
+https://github.com/Qiskit
+
+### Quantum linear systems algorithms: a primer
+https://arxiv.org/pdf/1802.08227.pdf
