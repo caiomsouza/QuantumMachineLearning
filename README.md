@@ -62,4 +62,5 @@ https://cloudblogs.microsoft.com/quantum/2020/10/13/join-quantum-computing-revol
 ### Azure Quantum optimization service samples
 https://github.com/microsoft/qio-samples
 
-
+### Can quantum machine learning move beyond its own hype?
+https://www.protocol.com/manuals/quantum-computing/machine-learning-ai-quantum-computing-move-beyond-hype
