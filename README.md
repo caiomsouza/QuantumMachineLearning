@@ -1,6 +1,9 @@
 # QuantumMachineLearning
 Quantum Machine Learning
 
+### Intro
+https://caiomsouza.medium.com/quantum-computing-intro-and-microsoft-quantum-development-kit-samples-fc1e0cc28e37
+
 ### Quantum computing foundations (Microsoft Learn)
 https://docs.microsoft.com/en-us/learn/paths/quantum-computing-fundamentals/
 
