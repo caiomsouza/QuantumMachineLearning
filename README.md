@@ -1,4 +1,4 @@
-# QuantumMachineLearning
+# Quantum Machine Learning
 Quantum machine learning is the integration of quantum algorithms within machine learning programs. The most common use of the term refers to machine learning algorithms for the analysis of classical data executed on a quantum computer, i.e. quantum-enhanced machine learning.
 
 ### What is quantum computing?
